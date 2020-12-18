@@ -1,1 +1,1 @@
-Code for my tutorial here: https://youtu.be/v7xjdXWZafY
+Code is written on PYthon using DJango framework
